@@ -15,4 +15,10 @@ Alle Ziele wurden erreicht.
 Alle Ziele wurden erreicht.
 <img width="510" height="512" alt="image" src="https://github.com/user-attachments/assets/b1c4d8a0-45d3-43a0-9162-5f07337d72a7" />
 <img width="515" height="515" alt="image" src="https://github.com/user-attachments/assets/c3fb79ca-9c20-4b69-9f2e-8789ec6a1e4a" />
-
+## Tag 3
+### ZIele:
+1. Das Skript für das Schießen fertigstellen.
+2. Die Kollisionsprüfung ausarbeiten.
+3. Mit der Arbeit am HP-System (Health Points) beginnen.
+### Erreicht:
+Die ersten beiden Ziele wurden erreicht, einige Fehler wurden behoben. Das HP-System wird vorerst zurückgestellt.
