@@ -22,3 +22,10 @@ Alle Ziele wurden erreicht.
 3. Mit der Arbeit am HP-System (Health Points) beginnen.
 ### Erreicht:
 Die ersten beiden Ziele wurden erreicht, einige Fehler wurden behoben. Das HP-System wird vorerst zurückgestellt.
+## Tag 4-5
+### Ziele:
+1. Sprites für Wände, Böden, Türen und Umgebungen erstellen.
+2. Sie in das Projekt zu integrieren.
+3. Github organisieren.
+### Erreicht:
+Alle Ziele wurden erreicht.
