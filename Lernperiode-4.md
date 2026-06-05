@@ -53,7 +53,7 @@ Besser Unity und Aseprite lernen und mehr Erfahrung erhalten.
 - [X] Sie in das Projekt mit Tilemap integrieren
 - [X] Github Repository organisiren.
 
-Heute habe ich mit dem Hajo Hinz zusammen begonne zu arbeiten und wir haben alle unsere Sprites im Unity integriert und ich muss jetzt nur noch die animation anpassen. Ich habe Tilemap gemacht und einige Sprites dort reingepasted und muss jetzt auch die Colliders für neue Wall-Sprites und Characktere machen. Ich habe auch viel Zeit gebraucht, um diese ganze Github Repository neue zu machen. Hoffentlich Nächste Freitag kann ich mehr erreichen.
+Heute habe ich mit dem Hajo Hinz zusammen begonnen zu arbeiten und wir haben alle unsere Sprites im Unity integriert und ich muss jetzt nur noch die animation anpassen. Ich habe Tilemap gemacht und einige Sprites dort reingepasted und muss jetzt auch die Colliders für neue Wall-Sprites und Characktere machen. Ich habe auch viel Zeit gebraucht, um diese ganze Github Repository neue zu machen. Hoffentlich Nächste Freitag kann ich mehr erreichen.
 
 ## Planung 12.06.2026
 - []
