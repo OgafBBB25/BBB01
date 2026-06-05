@@ -7,12 +7,12 @@
 Meine Kollegen und ich wollen eine eigene spiel machen.
 
 ### Noten
-Modul 164: 3.5 (Ich habe falsch verstanden wie man Queries abgeben muss und habe die meisten davon verlieren)
-Modul 117: ZIemlich gut gelaufen, aber ich warte an meine Note letzte 2-3 Monate.
-Modul 187: 4 (Alles klar)
-Modul 106: Abgeschliessen, warte für meine Note.
-Modul 122: Noch nicht fertig.
-Modul 293: Noch nicht fertig.
+- Modul 164: 3.5 (Ich habe falsch verstanden wie man Queries abgeben muss und habe die meisten davon verlieren)
+- Modul 117: ZIemlich gut gelaufen, aber ich warte an meine Note letzte 2-3 Monate.
+- Modul 187: 4 (Alles klar)
+- Modul 106: Abgeschliessen, warte für meine Note.
+- Modul 122: Noch nicht fertig.
+- Modul 293: Noch nicht fertig.
 
 ### Veränderungen
 Mehr an meine eigene Projekte schaffen, letzte Lernperiode habe ich zu viel zeit für die Module genommen.
