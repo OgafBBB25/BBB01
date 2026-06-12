@@ -56,8 +56,17 @@ Besser Unity und Aseprite lernen und mehr Erfahrung erhalten.
 Heute habe ich mit dem Hajo Hinz zusammen begonnen zu arbeiten und wir haben alle unsere Sprites im Unity integriert und ich muss jetzt nur noch die animation anpassen. Ich habe Tilemap gemacht und einige Sprites dort reingepasted und muss jetzt auch die Colliders für neue Wall-Sprites und Characktere machen. Ich habe auch viel Zeit gebraucht, um diese ganze Github Repository neue zu machen. Hoffentlich Nächste Freitag kann ich mehr erreichen.
 
 ## Planung 12.06.2026
-- []
-- []
-- [] 
+- [X] Sprites in das Projekt laden.
+- [X] Erstellen einer Tilemap-Palette.
+- [X] Erstellen mein eigenes Tilemap und lernen, wie man mit einer Palette darauf „zeichnet“.
+
+Heute habe ich mit Hilfe vonHajo ein paar Sprites neu erstellt, sie dann zu Spritesheets zusammengefügt und in Unity hochgeladen. Anschliessend habe ich sie in Kacheln zerlegt und drei Paletten erstellt: eine für den Boden, eine für die Wände und eine für die Props. Hier ist ein Screenshot, der zeigt, wie alle Objekte in der Szene aussehen:
+<img width="1217" height="743" alt="image" src="https://github.com/user-attachments/assets/cf36bb37-e5f2-4348-80de-012d14e02bff" />
+
+## Planung 19.06.2026
+- [] Schliessen das Tilemap ab.
+- [] Charackter integrieren.
+- [] Colliders für die neue Wände erstellen.
+
 
 
