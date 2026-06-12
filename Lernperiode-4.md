@@ -64,7 +64,7 @@ Heute habe ich mit Hilfe vonHajo ein paar Sprites neu erstellt, sie dann zu Spri
 <img width="1217" height="743" alt="image" src="https://github.com/user-attachments/assets/cf36bb37-e5f2-4348-80de-012d14e02bff" />
 
 ## Planung 19.06.2026
-- [] Schliessen das Tilemap ab.
+- [] Schliessen das Tilemap ab(Ecken und Türe).
 - [] Charackter integrieren.
 - [] Colliders für die neue Wände erstellen.
 
