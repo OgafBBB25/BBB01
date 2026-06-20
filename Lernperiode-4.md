@@ -41,7 +41,7 @@ Besser Unity und Aseprite lernen und mehr Erfahrung erhalten.
 ## Planung 22.05.2026
 - [X] Das Skript für das Schießen fertigstellen.
 - [X] Die Kollisionsprüfung ausarbeiten.
-- [ ] Mit der Arbeit am HP-System (Health Points) beginnen.
+- [] Mit der Arbeit am HP-System (Health Points) beginnen.
 
 ## Planung 29.05.2026
 - [X] Endlich HP-System beginnen.
@@ -65,13 +65,13 @@ Heute habe ich mit Hilfe vonHajo ein paar Sprites neu erstellt, sie dann zu Spri
 
 ## Planung 19.06.2026
 - [X] Schliessen das Tilemap ab(Ecken und Türe).
-- [ ] Charackter integrieren.
-- [ ] Colliders für die neue Wände erstellen.
+- [] Charackter integrieren.
+- [] Colliders für die neue Wände erstellen.
 
 Heute habe ich leider fast gar nicht an meinem Unity-Projekt gearbeitet und stattdessen beschlossen, mir etwas Zeit für meine Projekte in den Modulen 122 und 293 zu nehmen. Ich habe einen Prototyp meines Programms in PowerShell erstellt und meine HTML-Website fast fertiggestellt. Daher werden die meisten Ziele einfach auf das nächste Mal verschoben.
 
 ## Planung 26.06.26
-- [ ] Charackter integrieren.
-- [ ] Colliders für die neue Wände erstellen.
-- [ ] Fix bug with the bullets.
+- [] Charackter integrieren.
+- [] Colliders für die neue Wände erstellen.
+- [] Fix bug with the bullets.
 
