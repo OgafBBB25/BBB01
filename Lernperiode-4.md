@@ -30,11 +30,18 @@ Besser Unity und Aseprite lernen und mehr Erfahrung erhalten.
 - [x] Suche nach Referenzmaterial und beginne, die Figur zu zeichnen.
 - [X] Erstelle eine einfache Gehanimation.
 
+### Reflexion:
+Heute habe ich mit dem Projekt neu angefangen und das Konzept überarbeitet, um einen lokalen Mehrspielermodus hinzuzufügen. Ich habe Referenzmaterial gesucht und angefangen, die Figur zu zeichnen. Außerdem habe ich eine
+einfache Gehanimation erstellt. Es war viel Planungsarbeit, aber ich habe jetzt eine klare Vorstellung davon, wie das Spiel aussehen soll.
+
 ## Planung 08.05.2026
 - [X] Füge einem Charakter in Aseprite Schatten hinzu.
 - [X] Laufanimation verbessern.
 - [X] Füge einen Sprite und eine Animation der Figur aus einem anderen Blickwinkel hinzu.
- 
+
+### Reflexion:
+Heute habe ich in Aseprite dem Charakter Schatten hinzugefügt, was die Figur viel lebendiger aussehen lässt. Ausserdem habe ich die Laufanimation verbessert und einen neuen Sprite mit Animation aus einem anderen Blickwinkel erstellt. Die Animationen sehen jetzt deutlich besser aus als vorher. Ich muss noch einige Details anpassen, aber insgesamt bin ich mit dem Fortschritt zufrieden. Hoffentlich nächste Freitag kann ich mehr erreichen.
+
 <img width="510" height="512" alt="image" src="https://github.com/user-attachments/assets/b1c4d8a0-45d3-43a0-9162-5f07337d72a7" />
 <img width="515" height="515" alt="image" src="https://github.com/user-attachments/assets/c3fb79ca-9c20-4b69-9f2e-8789ec6a1e4a" />
 
@@ -43,16 +50,23 @@ Besser Unity und Aseprite lernen und mehr Erfahrung erhalten.
 - [X] Die Kollisionsprüfung ausarbeiten.
 - [ ] Mit der Arbeit am HP-System (Health Points) beginnen.
 
+### Reflexion: 
+Heute habe ich das Skript für das Schießen fertiggestellt und die Kollisionsprüfung ausgearbeitet. Das hat mehr Zeit gekostet als erwartet, weil es einige Bugs gab, die ich erst debuggen musste. Mit dem HP-System habe ich leider noch nicht begonnen, das bleibt für die nächste Woche. Insgesamt war es aber ein produktiver Tag und die Mechaniken funktionieren jetzt deutlich besser.
+
 ## Planung 29.05.2026
 - [X] Endlich HP-System beginnen.
 - [X] Konzapt und Ziele des Projekts mit Zusammenarbeitende besprechen
 - [X] Boden und Wände Sprites erstellen.
+
+### Reflexion: 
+Heute habe ich endlich mit dem HP-System begonnen, worauf ich schon lange gewartet habe. Außerdem habe ich das Konzept und die Ziele des Projekts mit meinen Zusammenarbeitenden besprochen, damit wir alle auf dem gleichen Stand sind. Ich habe auch Boden- und Wand-Sprites erstellt, die das Spiel optisch schon viel mehr nach einem echten Level aussehen lassen. Es war ein sehr produktiver Tag. 
 
 ## Planung 05.06.2026
 - [X] Sprites für Umgebunden und Türen erstellen.
 - [X] Sie in das Projekt mit Tilemap integrieren
 - [X] Github Repository organisiren.
 
+### Reflexion:
 Heute habe ich mit dem Hajo Hinz zusammen begonnen zu arbeiten und wir haben alle unsere Sprites im Unity integriert und ich muss jetzt nur noch die animation anpassen. Ich habe Tilemap gemacht und einige Sprites dort
 reingepasted und muss jetzt auch die Colliders für neue Wall-Sprites und Characktere machen. Ich habe auch viel Zeit gebraucht, um diese ganze Github Repository neue zu machen. Hoffentlich Nächste Freitag kann ich mehr
 erreichen.
@@ -62,6 +76,7 @@ erreichen.
 - [X] Erstellen einer Tilemap-Palette.
 - [X] Erstellen mein eigenes Tilemap und lernen, wie man mit einer Palette darauf „zeichnet“.
 
+### Reflexion:
 Heute habe ich mit Hilfe vonHajo ein paar Sprites neu erstellt, sie dann zu Spritesheets zusammengefügt und in Unity hochgeladen. Anschliessend habe ich sie in Kacheln zerlegt und drei Paletten erstellt: eine für den
 Boden, eine für die Wände und eine für die Props. Hier ist ein Screenshot, der zeigt, wie alle Objekte in der Szene aussehen:
 <img width="1217" height="743" alt="image" src="https://github.com/user-attachments/assets/cf36bb37-e5f2-4348-80de-012d14e02bff" />
@@ -71,6 +86,7 @@ Boden, eine für die Wände und eine für die Props. Hier ist ein Screenshot, de
 - [ ] Charackter integrieren.
 - [ ] Colliders für die neue Wände erstellen.
 
+### Reflexion:
 Heute habe ich leider fast gar nicht an meinem Unity-Projekt gearbeitet und stattdessen beschlossen, mir etwas Zeit für meine Projekte in den Modulen 122 und 293 zu nehmen. Ich habe einen Prototyp meines Programms in
 PowerShell erstellt und meine HTML-Website fast fertiggestellt. Daher werden die meisten Ziele einfach auf das nächste Mal verschoben.
 
@@ -80,10 +96,11 @@ PowerShell erstellt und meine HTML-Website fast fertiggestellt. Daher werden die
 - [X] Fix bug with the bullets.
 - [X] HP Sytem fertig gemacht
 
+### Reflexion:
 Heute habe ich Colliders für die neue tilemap layout gemacht und paar bugs repariert. Nacher habe ich enntschieden, dass ich mache die Charackter integration nächste mal und habe für die restliche Zeit wieder an HP
 System geabeitet und endlich (fast) fertig gemacht (es funktioniert, aber es gibt immer noch paar bugs).
 
-## Reflexion Lernperiode 4: 
+## Lernperiode Reflexion
 In diese Lernperiode habe ich viel gelernt. Ich startete mit einem Kollegen ein Unity-Projekt und lernte, einfache Skripte zu schreiben, mit der Unity-Oberfläche zu arbeiten und 2D-Sprites zu zeichnen und zu animieren.
 Für die Sprites verwendete ich Aseprite und verbrachte die meiste Zeit damit. In Unity selbst erstellte ich ein Startlevel mit lokalem Mehrspielermodus, in dem zwei Spieler auf der Karte herumlaufen und aufeinander
 schiessen konnten. Durch die Integration all meiner Texturen, die ich selbst in Aseprite gezeichnet hatte, konnte ich eine Tilemap verwenden, um eine gute Projektbasis zu schaffen, auf der ich dann problemlos Level und
