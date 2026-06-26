@@ -53,14 +53,17 @@ Besser Unity und Aseprite lernen und mehr Erfahrung erhalten.
 - [X] Sie in das Projekt mit Tilemap integrieren
 - [X] Github Repository organisiren.
 
-Heute habe ich mit dem Hajo Hinz zusammen begonnen zu arbeiten und wir haben alle unsere Sprites im Unity integriert und ich muss jetzt nur noch die animation anpassen. Ich habe Tilemap gemacht und einige Sprites dort reingepasted und muss jetzt auch die Colliders für neue Wall-Sprites und Characktere machen. Ich habe auch viel Zeit gebraucht, um diese ganze Github Repository neue zu machen. Hoffentlich Nächste Freitag kann ich mehr erreichen.
+Heute habe ich mit dem Hajo Hinz zusammen begonnen zu arbeiten und wir haben alle unsere Sprites im Unity integriert und ich muss jetzt nur noch die animation anpassen. Ich habe Tilemap gemacht und einige Sprites dort
+reingepasted und muss jetzt auch die Colliders für neue Wall-Sprites und Characktere machen. Ich habe auch viel Zeit gebraucht, um diese ganze Github Repository neue zu machen. Hoffentlich Nächste Freitag kann ich mehr
+erreichen.
 
 ## Planung 12.06.2026
 - [X] Sprites in das Projekt laden.
 - [X] Erstellen einer Tilemap-Palette.
 - [X] Erstellen mein eigenes Tilemap und lernen, wie man mit einer Palette darauf „zeichnet“.
 
-Heute habe ich mit Hilfe vonHajo ein paar Sprites neu erstellt, sie dann zu Spritesheets zusammengefügt und in Unity hochgeladen. Anschliessend habe ich sie in Kacheln zerlegt und drei Paletten erstellt: eine für den Boden, eine für die Wände und eine für die Props. Hier ist ein Screenshot, der zeigt, wie alle Objekte in der Szene aussehen:
+Heute habe ich mit Hilfe vonHajo ein paar Sprites neu erstellt, sie dann zu Spritesheets zusammengefügt und in Unity hochgeladen. Anschliessend habe ich sie in Kacheln zerlegt und drei Paletten erstellt: eine für den
+Boden, eine für die Wände und eine für die Props. Hier ist ein Screenshot, der zeigt, wie alle Objekte in der Szene aussehen:
 <img width="1217" height="743" alt="image" src="https://github.com/user-attachments/assets/cf36bb37-e5f2-4348-80de-012d14e02bff" />
 
 ## Planung 19.06.2026
@@ -68,10 +71,22 @@ Heute habe ich mit Hilfe vonHajo ein paar Sprites neu erstellt, sie dann zu Spri
 - [ ] Charackter integrieren.
 - [ ] Colliders für die neue Wände erstellen.
 
-Heute habe ich leider fast gar nicht an meinem Unity-Projekt gearbeitet und stattdessen beschlossen, mir etwas Zeit für meine Projekte in den Modulen 122 und 293 zu nehmen. Ich habe einen Prototyp meines Programms in PowerShell erstellt und meine HTML-Website fast fertiggestellt. Daher werden die meisten Ziele einfach auf das nächste Mal verschoben.
+Heute habe ich leider fast gar nicht an meinem Unity-Projekt gearbeitet und stattdessen beschlossen, mir etwas Zeit für meine Projekte in den Modulen 122 und 293 zu nehmen. Ich habe einen Prototyp meines Programms in
+PowerShell erstellt und meine HTML-Website fast fertiggestellt. Daher werden die meisten Ziele einfach auf das nächste Mal verschoben.
 
 ## Planung 26.06.26
-- [] Charackter integrieren.
-- [] Colliders für die neue Wände erstellen.
-- [] Fix bug with the bullets.
+- [ ] Charackter integrieren.
+- [X] Colliders für die neue Wände erstellen.
+- [X] Fix bug with the bullets.
+- [X] HP Sytem fertig gemacht
 
+Heute habe ich Colliders für die neue tilemap layout gemacht und paar bugs repariert. Nacher habe ich enntschieden, dass ich mache die Charackter integration nächste mal und habe für die restliche Zeit wieder an HP
+System geabeitet und endlich (fast) fertig gemacht (es funktioniert, aber es gibt immer noch paar bugs).
+
+Reflexion Lernperiode 4:
+In diese Lernperiode habe ich viel gelernt. Ich startete mit einem Kollegen ein Unity-Projekt und lernte, einfache Skripte zu schreiben, mit der Unity-Oberfläche zu arbeiten und 2D-Sprites zu zeichnen und zu animieren.
+Für die Sprites verwendete ich Aseprite und verbrachte die meiste Zeit damit. In Unity selbst erstellte ich ein Startlevel mit lokalem Mehrspielermodus, in dem zwei Spieler auf der Karte herumlaufen und aufeinander
+schiessen konnten. Durch die Integration all meiner Texturen, die ich selbst in Aseprite gezeichnet hatte, konnte ich eine Tilemap verwenden, um eine gute Projektbasis zu schaffen, auf der ich dann problemlos Level und
+verschiedene Maps für dieses Spiel erstellen konnte. Das Konzept sah ein Spiel vor, in dem 2-4 Spieler online gegeneinander antreten konnten. Nach jeder Runde erhielten die Gewinner je nach Ergebnis verschiedene Power
+ups zur Auswahl, die ihnen in den folgenden Runden halfen. Dies war auch das erste Mal, dass ich mit jemand anderem an einem Unity-Projekt arbeitete und lernte, wie man das Projekt über Git synchronisiert.
+In der nächsten Lernperiode plane ich, die Pre-Alpha-Build dieses Spiels fertigzustellen und hoffe, dabei viel zu lernen.
