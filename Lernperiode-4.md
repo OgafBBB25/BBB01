@@ -83,7 +83,7 @@ PowerShell erstellt und meine HTML-Website fast fertiggestellt. Daher werden die
 Heute habe ich Colliders für die neue tilemap layout gemacht und paar bugs repariert. Nacher habe ich enntschieden, dass ich mache die Charackter integration nächste mal und habe für die restliche Zeit wieder an HP
 System geabeitet und endlich (fast) fertig gemacht (es funktioniert, aber es gibt immer noch paar bugs).
 
-Reflexion Lernperiode 4:
+## Reflexion Lernperiode 4: 
 In diese Lernperiode habe ich viel gelernt. Ich startete mit einem Kollegen ein Unity-Projekt und lernte, einfache Skripte zu schreiben, mit der Unity-Oberfläche zu arbeiten und 2D-Sprites zu zeichnen und zu animieren.
 Für die Sprites verwendete ich Aseprite und verbrachte die meiste Zeit damit. In Unity selbst erstellte ich ein Startlevel mit lokalem Mehrspielermodus, in dem zwei Spieler auf der Karte herumlaufen und aufeinander
 schiessen konnten. Durch die Integration all meiner Texturen, die ich selbst in Aseprite gezeichnet hatte, konnte ich eine Tilemap verwenden, um eine gute Projektbasis zu schaffen, auf der ich dann problemlos Level und
