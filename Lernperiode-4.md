@@ -25,7 +25,7 @@ Besser Unity und Aseprite lernen und mehr Erfahrung erhalten.
 
 ## Tagesplanungen:
 
-## Planung 24.04.2026
+### 24.04.2026
 - [X] Überarbeiten Sie das Projekt, indem Sie einen lokalen Mehrspielermodus hinzufügen.
 - [x] Suche nach Referenzmaterial und beginne, die Figur zu zeichnen.
 - [X] Erstelle eine einfache Gehanimation.
@@ -34,7 +34,7 @@ Besser Unity und Aseprite lernen und mehr Erfahrung erhalten.
 Heute habe ich mit dem Projekt neu angefangen und das Konzept überarbeitet, um einen lokalen Mehrspielermodus hinzuzufügen. Ich habe Referenzmaterial gesucht und angefangen, die Figur zu zeichnen. Außerdem habe ich eine
 einfache Gehanimation erstellt. Es war viel Planungsarbeit, aber ich habe jetzt eine klare Vorstellung davon, wie das Spiel aussehen soll.
 
-## Planung 08.05.2026
+### 08.05.2026
 - [X] Füge einem Charakter in Aseprite Schatten hinzu.
 - [X] Laufanimation verbessern.
 - [X] Füge einen Sprite und eine Animation der Figur aus einem anderen Blickwinkel hinzu.
@@ -45,7 +45,7 @@ Heute habe ich in Aseprite dem Charakter Schatten hinzugefügt, was die Figur vi
 <img width="510" height="512" alt="image" src="https://github.com/user-attachments/assets/b1c4d8a0-45d3-43a0-9162-5f07337d72a7" />
 <img width="515" height="515" alt="image" src="https://github.com/user-attachments/assets/c3fb79ca-9c20-4b69-9f2e-8789ec6a1e4a" />
 
-## Planung 22.05.2026
+### 22.05.2026
 - [X] Das Skript für das Schießen fertigstellen.
 - [X] Die Kollisionsprüfung ausarbeiten.
 - [ ] Mit der Arbeit am HP-System (Health Points) beginnen.
@@ -53,7 +53,7 @@ Heute habe ich in Aseprite dem Charakter Schatten hinzugefügt, was die Figur vi
 ### Reflexion: 
 Heute habe ich das Skript für das Schießen fertiggestellt und die Kollisionsprüfung ausgearbeitet. Das hat mehr Zeit gekostet als erwartet, weil es einige Bugs gab, die ich erst debuggen musste. Mit dem HP-System habe ich leider noch nicht begonnen, das bleibt für die nächste Woche. Insgesamt war es aber ein produktiver Tag und die Mechaniken funktionieren jetzt deutlich besser.
 
-## Planung 29.05.2026
+### 29.05.2026
 - [X] Endlich HP-System beginnen.
 - [X] Konzapt und Ziele des Projekts mit Zusammenarbeitende besprechen
 - [X] Boden und Wände Sprites erstellen.
@@ -61,7 +61,7 @@ Heute habe ich das Skript für das Schießen fertiggestellt und die Kollisionspr
 ### Reflexion: 
 Heute habe ich endlich mit dem HP-System begonnen, worauf ich schon lange gewartet habe. Außerdem habe ich das Konzept und die Ziele des Projekts mit meinen Zusammenarbeitenden besprochen, damit wir alle auf dem gleichen Stand sind. Ich habe auch Boden- und Wand-Sprites erstellt, die das Spiel optisch schon viel mehr nach einem echten Level aussehen lassen. Es war ein sehr produktiver Tag. 
 
-## Planung 05.06.2026
+### 05.06.2026
 - [X] Sprites für Umgebunden und Türen erstellen.
 - [X] Sie in das Projekt mit Tilemap integrieren
 - [X] Github Repository organisiren.
@@ -71,7 +71,7 @@ Heute habe ich mit dem Hajo Hinz zusammen begonnen zu arbeiten und wir haben all
 reingepasted und muss jetzt auch die Colliders für neue Wall-Sprites und Characktere machen. Ich habe auch viel Zeit gebraucht, um diese ganze Github Repository neue zu machen. Hoffentlich Nächste Freitag kann ich mehr
 erreichen.
 
-## Planung 12.06.2026
+### 12.06.2026
 - [X] Sprites in das Projekt laden.
 - [X] Erstellen einer Tilemap-Palette.
 - [X] Erstellen mein eigenes Tilemap und lernen, wie man mit einer Palette darauf „zeichnet“.
@@ -81,7 +81,7 @@ Heute habe ich mit Hilfe vonHajo ein paar Sprites neu erstellt, sie dann zu Spri
 Boden, eine für die Wände und eine für die Props. Hier ist ein Screenshot, der zeigt, wie alle Objekte in der Szene aussehen:
 <img width="1217" height="743" alt="image" src="https://github.com/user-attachments/assets/cf36bb37-e5f2-4348-80de-012d14e02bff" />
 
-## Planung 19.06.2026
+### 19.06.2026
 - [X] Schliessen das Tilemap ab(Ecken und Türe).
 - [ ] Charackter integrieren.
 - [ ] Colliders für die neue Wände erstellen.
@@ -90,7 +90,7 @@ Boden, eine für die Wände und eine für die Props. Hier ist ein Screenshot, de
 Heute habe ich leider fast gar nicht an meinem Unity-Projekt gearbeitet und stattdessen beschlossen, mir etwas Zeit für meine Projekte in den Modulen 122 und 293 zu nehmen. Ich habe einen Prototyp meines Programms in
 PowerShell erstellt und meine HTML-Website fast fertiggestellt. Daher werden die meisten Ziele einfach auf das nächste Mal verschoben.
 
-## Planung 26.06.26
+### 26.06.26
 - [ ] Charackter integrieren.
 - [X] Colliders für die neue Wände erstellen.
 - [X] Fix bug with the bullets.
