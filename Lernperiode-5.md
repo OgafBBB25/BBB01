@@ -19,7 +19,7 @@ Create Verdict(Project name) pre-alfa build
 
 ## Tagesplanungen
 
-### Planung 16.08.2024
+### Planung 14.08.2026
 
 - [X] Create colliders for walls and props
 - [X] Fix a bug with client not working in local multiplayer
@@ -31,7 +31,7 @@ Today I made colliders for both walls and props, I also rewrote bullet's script 
 I also replaced old scene with a new one and imported all the scripts. At the end I wanted to quickly fix 1 bug and move on to the charackter intigration, but this bug took to much time and I basically fixed the whole project, but this one bug that I still strugle with. Hopefuly I'll be able to do that at home until next Friday. 
 
 
-### Planung 23.08.2024
+### Planung 21.08.2026
 
 - [] Recreate charackter(for sure this time)
 - [] fix multiplayer
