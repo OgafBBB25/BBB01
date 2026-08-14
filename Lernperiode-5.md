@@ -33,9 +33,9 @@ I also replaced old scene with a new one and imported all the scripts. At the en
 
 ### Planung 23.08.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [] Recreate charackter(for sure this time)
+- [] fix multiplayer
+- [] start adding weapons working on combat system
 
 (Heute habe ich... (50-100 Wörter))
 
