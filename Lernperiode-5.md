@@ -6,31 +6,32 @@
 ## Grob-Planung
 
 ### Noten
-Bis Jetzt keine
+None yet
 
 ### Veränderungen
-Mehr Zeit für die Projekten nehmen und es wirklich nützen
+Take more time for the Projects and realy work on them
 
 ### Projekte / neue Technologien
-Unity Projekt mit C#, Aseprite, Blender
+Unity Project with C#, Aseprite, Blender
 
 ### Generelle Ziele
-Verdict (Projekt name) pre-alfa build erstellen 
+Create Verdict(Project name) pre-alfa build 
 
 ## Tagesplanungen
 
 ### Planung 16.08.2024
-3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [X] Create colliders for walls and props
+- [X] Fix a bug with client not working in local multiplayer
+- [ ] Recreate charackter from scratch with my own sprite
+- [X] Github Lernperiode-5
 
-(Heute habe ich... (50-100 Wörter))
+Today I made colliders for both walls and props, I also rewrote bullet's script for them to react on collision with walls and other objects. <img width="914" height="596" alt="image" src="https://github.com/user-attachments/assets/859d2a28-8c00-4136-b741-2fc71d0ae1ed" />
+
+I also replaced old scene with a new one and imported all the scripts. At the end I wanted to quickly fix 1 bug and move on to the charackter intigration, but this bug took to much time and I basically fixed the whole project, but this one bug that I still strugle with. Hopefuly I'll be able to do that at home until next Friday. 
 
 
 ### Planung 23.08.2024
-3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Erstes Arbeitspaket
 - [ ] ...
