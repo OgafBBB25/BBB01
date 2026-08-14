@@ -6,7 +6,7 @@
 ## Grob-Planung
 
 ### Noten
-None yet
+I haven't gotten any grades yet, but I think that I'm going realy good in terms of understanding the material and don't see any problems to report at this monent.
 
 ### Veränderungen
 Take more time for the Projects and realy work on them
@@ -33,9 +33,9 @@ I also replaced old scene with a new one and imported all the scripts. At the en
 
 ### Planung 21.08.2026
 
-- [] Recreate charackter(for sure this time)
-- [] fix multiplayer
-- [] start adding weapons working on combat system
+- [ ] Recreate charackter(for sure this time)
+- [ ] fix multiplayer
+- [ ] start adding weapons working on combat system
 
 (Heute habe ich... (50-100 Wörter))
 
