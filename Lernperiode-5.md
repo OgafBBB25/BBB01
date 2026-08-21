@@ -33,11 +33,18 @@ I also replaced old scene with a new one and imported all the scripts. At the en
 
 ### Planung 21.08.2026
 
-- [ ] Recreate charackter(for sure this time)
-- [ ] fix multiplayer
-- [ ] start adding weapons working on combat system
+- [X] Recreate charackter(for sure this time)
+- [X] Fix multiplayer
+- [X] Start adding weapons working on combat system
 
-(Heute habe ich... (50-100 Wörter))
+Today I started recreating character from scratch and intigrated his sprite, basic scripts and staff as a weapon, I also fixed some bugs including the one with multiplayer that I wasted a lot of time last week. I also got some funny bugs with my weapon when it starts rotating and getting bigger when I shoot which I also want to fix next Friday: <img width="788" height="301" alt="image" src="https://github.com/user-attachments/assets/cb3f0f96-b627-4142-9381-24e01ab1b35f" />
+
+### Planung 28.08.2026
+
+- [ ] Fix weapon rotating bug
+- [ ] Create some animations
+- [ ] Add some other weapons
+- [ ] Rewrite "bullet" script for staffs
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
