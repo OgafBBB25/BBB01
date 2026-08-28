@@ -41,10 +41,21 @@ Today I started recreating character from scratch and intigrated his sprite, bas
 
 ### Planung 28.08.2026
 
-- [ ] Fix weapon rotating bug
-- [ ] Create some animations
+- [X] Fix weapon rotating bug
+- [X] Create some animations
 - [ ] Add some other weapons
-- [ ] Rewrite "bullet" script for staffs
+- [X] Rewrite "bullet" script for staffs
+- [X] Finish the HP System and test it in local Multiplayer
+
+Taday I fixed the bug from last time and made my own little animation, that trigers when the staff is shooting, it still shoots bullets but I'm gonna change it some other time. I also finished the HP system, which wasn't actually planned but I just really wanted to test it all in a 1v1 pvp mode and it was the last thing I needed for this. Now it all works and players in local multiplayer can shoot eachother and get damage, even though hp bar is acting wierd some times it mostly works and if hp drops to 0 charackter "dies" all systems according this player just basically stop working and it can move through walls but can't shoot.
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/fe87e69d-9a35-4506-aa56-28b9091f841d" />
+
+### Planung 04.09.2026
+
+- [ ] Make a normal death machanic
+- [ ] Add some other weapons
+- [ ] Start thinking about creating some enemyes
+- [ ] Maybe start making some new rooms/expanding the map
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
