@@ -53,9 +53,11 @@ Taday I fixed the bug from last time and made my own little animation, that trig
 ### Planung 04.09.2026
 
 - [ ] Make a normal death machanic
-- [ ] Add some other weapons
-- [ ] Start thinking about creating some enemyes
-- [ ] Maybe start making some new rooms/expanding the map
+- [X] Create Shield technology
+- [X] Create Dash technology
+- [X] Start expanding the map
+
+Today I rewrote the PlayerController script adding 2 new combat mechanics and found out that the map is to little for the version of combat I got. I think that soon I'll be able to finish this project build, because there are only 3-4 big things to do until I'll be satisfied. Those are: Death mechanic, big enough map, online Multiplayer and some textures like for example Shield (just a flying rectangle at the moment).
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
