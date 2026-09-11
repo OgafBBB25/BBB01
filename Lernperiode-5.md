@@ -61,9 +61,14 @@ Today I rewrote the PlayerController script adding 2 new combat mechanics and fo
 
 ### Planung 04.09.2026
 
-- [ ] Keep expanding the map
+- [X] Expand the map
 - [ ] Start working on the Death screen
-- [ ] Fix the visuals part HP system
+- [X] Fix the visuals part HP system
+- [X] Fix the Shield bug
+
+Today I expanded the map fourfold, here is how it looks: <img width="1079" height="726" alt="image" src="https://github.com/user-attachments/assets/d9022498-0a00-4c5f-a835-586105484fcc" /> 
+After that I realized that the Shield is linked to the Main Camera, not the playercam and had to rewrite the code a little. I also started to draw some new sprites, but don't have much to show yet.
+
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
