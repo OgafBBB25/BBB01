@@ -75,13 +75,14 @@ After that I realized that the Shield is linked to the Main Camera, not the play
 - [X] FIx Multiplayer
 - [X] Create Death system
 
+Today I didn't do to much work because I was mainly focusing on fixing all the bugs that I collected in my Project, but now I'm confident that I'll be able to finish the work I planned for this period.
+
 ### Planung 25.09.2026
 
 - [ ] Insert new Textures
 - [ ] Polish the Pre-Alfa Build
 - [ ] Ask others for some Testing
 - [ ] Finish the Lernperiode
-
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
