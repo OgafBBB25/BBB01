@@ -75,7 +75,7 @@ After that I realized that the Shield is linked to the Main Camera, not the play
 - [X] FIx Multiplayer
 - [X] Create Death system
 
-Today I didn't do to much work because I was mainly focusing on fixing all the bugs that I collected in my Project, but now the whole thing look much more organized and I'm confident that I'll be able to finish the work I planned for this period.
+Today I didn't do to much work because I was mainly focusing on fixing all the bugs that I collected in my Project, but now the whole thing looks much more organized and I'm confident that I'll be able to finish the work I planned for this period.
 
 ### Planung 25.09.2026
 
