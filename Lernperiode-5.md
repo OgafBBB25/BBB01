@@ -59,7 +59,7 @@ Taday I fixed the bug from last time and made my own little animation, that trig
 
 Today I rewrote the PlayerController script adding 2 new combat mechanics and found out that the map is to little for the version of combat I got. I think that soon I'll be able to finish this project build, because there are only 3-4 big things to do until I'll be satisfied. Those are: Death mechanic, big enough map, online Multiplayer and some textures like for example Shield (just a flying rectangle at the moment).
 
-### Planung 04.09.2026
+### Planung 11.09.2026
 
 - [X] Expand the map
 - [ ] Start working on the Death screen
@@ -68,6 +68,19 @@ Today I rewrote the PlayerController script adding 2 new combat mechanics and fo
 
 Today I expanded the map fourfold, here is how it looks: <img width="1079" height="726" alt="image" src="https://github.com/user-attachments/assets/d9022498-0a00-4c5f-a835-586105484fcc" /> 
 After that I realized that the Shield is linked to the Main Camera, not the playercam and had to rewrite the code a little. I also started to draw some new sprites, but don't have much to show yet.
+
+### Planung 18.09.2026
+
+- [X] Fix bugs with the map terrain
+- [X] FIx Multiplayer
+- [X] Create Death system
+
+### Planung 25.09.2026
+
+- [ ] Insert new Textures
+- [ ] Polish the Pre-Alfa Build
+- [ ] Ask others for some Testing
+- [ ] Finish the Lernperiode
 
 
 ## Lernperiode Reflexion
