@@ -12,7 +12,7 @@ I haven't gotten any grades yet, but I think that I'm going realy good in terms 
 Take more time for the Projects and realy work on them
 
 ### Projekte / neue Technologien
-Unity Project with C#, Aseprite, Blender
+Unity Project with C#, Aseprite
 
 ### Generelle Ziele
 Create Verdict(Project name) pre-alfa build 
@@ -80,9 +80,11 @@ Today I didn't do to much work because I was mainly focusing on fixing all the b
 ### Planung 25.09.2026
 
 - [ ] Insert new Textures
-- [ ] Polish the Pre-Alfa Build
-- [ ] Ask others for some Testing
-- [ ] Finish the Lernperiode
+- [X] Polish the Pre-Alfa Build
+- [X] Ask others for some Testing
+- [X] Finish the Lernperiode
+
+I finished the First build of this Projekt and sent it to my friends to test it. I was hoping that they may find some bugs and was right, but they we're not that massive and I quickly fixed them. I aslo got a lot of feedback from my testers about the game and what they would like to see next. At this moment it has some very frustrating strategies with holding your shield and shooting only when you're save, which makes you unkillable and all end up just watching each other, but this is a topic for the Future if I come back to this Projekt/
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+In this learning period I worked on my Unity project "Verdict," progressing from early technical setup to a finished pre-alpha build. I started by creating colliders for walls and props and fixing a stubborn local multiplayer bug, then rebuilt my character from scratch with a custom sprite and staff weapon. Over the following weeks I developed the combat system: rewriting the bullet script, fixing a weapon rotation bug, creating shooting animations, and implementing a full HP system tested in 1v1 local multiplayer. I then added Shield and Dash abilities, expanded the map fourfold, and built a proper death mechanic, fixing related bugs like the shield being wrongly linked to the main camera. Toward the end I focused on debugging and polishing, then had friends test the build. Their feedback revealed balance issues, like overly defensive shield-camping strategies, giving me clear direction for future development. Overall, I completed my goal of delivering a playable pre-alpha build.
