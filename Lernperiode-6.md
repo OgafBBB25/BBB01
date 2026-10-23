@@ -33,9 +33,9 @@ Make an App using C++
 ### Planung 23.10.2026
 
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [X] Write Lern-Periode-6.md file
+- [ ] Figure out what project do I want to do
+- [ ] Start working on it
 
 #### Tagesreflexion
 
