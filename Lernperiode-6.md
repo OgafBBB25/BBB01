@@ -2,7 +2,7 @@
 
 
 - Name: Gafurov Oleksii
-- Zeitraum: 23.10.2026 bis 18.m12.2026
+- Zeitraum: 23.10.2026 bis 18.12.2026
 
 ## Grob-Planung
 
