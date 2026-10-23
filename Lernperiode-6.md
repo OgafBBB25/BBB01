@@ -34,20 +34,21 @@ Make an App using C++
 
 
 - [X] Write Lern-Periode-6.md file
-- [ ] Figure out what project do I want to do
+- [X] Figure out what project do I want to do
 - [ ] Start working on it
+- [X] Lern something new
 
 #### Tagesreflexion
 
 
-...Ihr Text...
+Today was the first day of new Lernperiode and was thinking that doing some smaller projects using C++ this time would be better then updating my game I was working on last period, but I couldn't decide what exectly to do so I thought that I can keep learning C++ with the course you singed me in earlyer to find some inspiration. Unfortunately I lost track of time a little bit while doinng so. That's why I didn't start coding anything new but now I think that I can just do something easy like a calculator and then see how it goes. Even if this day wasn't very productive in terms of project, it was very fun and I enjoyed the course. Next time I'll try to do better.
 
 ### Planung 30.10.2026
 
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Come up with more clear idea of an App I can do
+- [ ] Code my first C++ App
+- [ ] Keep going with the course if there 'll be time left
 
 #### Tagesreflexion
 
