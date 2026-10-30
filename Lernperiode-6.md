@@ -46,21 +46,22 @@ Today was the first day of new Lernperiode and was thinking that doing some smal
 ### Planung 30.10.2026
 
 
-- [ ] Come up with more clear idea of an App I can do
-- [ ] Code my first C++ App
+- [ ] Come up with more clear idea of a Project I can code on C++
+- [ ] Code this Program 
 - [ ] Keep going with the course if there 'll be time left
 
 #### Tagesreflexion
 
 
-...Ihr Text...
+Today I decided to Code a SnakeGame with C++ using Visual Studio. Exept from spending a lot of time to install VS 2026 and then update it right away by some reason it was a great experience and I finished the game. The most fun I had while I was coding and it wasn't too hard because syntax is very similar to C# and I already new all of the main concepts like how to work with cycles and use switch instead of a ladder of if-else commands to for example code movement of the snake on WASD. You can find repository of this project in my Github profile, here's a screenshot of how the game looks: <img width="1235" height="649" alt="image" src="https://github.com/user-attachments/assets/0aa0e00c-eb53-420a-9b15-df3c4b66709c" /> Next time I want to do first make it so anyone can just open an .exe file and play, without needing to open it in VS or other programs and start something new.
+
 
 ### Planung 06.11.2026
 
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Take SnakeGame out of Visual Studio
+- [ ] Come up with some new project to code
+- [ ] Keep learning C++
 
 #### Tagesreflexion
 
