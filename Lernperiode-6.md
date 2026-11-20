@@ -71,21 +71,21 @@ Today I did less than I expected because I was getting ready for and heaving a p
 ### Planung 20.11.2026
 
 
-- [ ] Take SnakeGame out of Visual Studio
-- [ ] Come up with some new project to code
-- [ ] Keep learning C++
+- [X] Take SnakeGame out of Visual Studio
+- [X] Come up with some new project to code
+- [X] Keep learning C++
 
 #### Tagesreflexion
 
 
-...Ihr Text...
+Today I did less than I expected because I was getting ready for and heaving a professional discussion with you and Mr. Thut. The rest of my time today I spend on learning C++. All of my goals stay the same for the next Friday Hopefully I can do better then.
 
 ### Planung 27.11.2026
 
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Take SnakeGame out of Visual Studio
+- [ ] Come up with some new project to code
+- [ ] Keep learning C++
 
 #### Tagesreflexion
 
