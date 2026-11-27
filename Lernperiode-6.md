@@ -86,15 +86,15 @@ The rest of the time I spend learning C++.
 ### Planung 27.11.2026
 
 
-- [ ] Do some more Leetcode
-- [ ] Try solving more advanced logic problems
-- [ ] Keep learning something new
+- [X] Do some more Leetcode
+- [X] Try solving more advanced logic problems
+- [X] Keep learning something new
 
 #### Tagesreflexion
 
-
-...Ihr Text...
-
+Today I decided to change the approuch a little bit and focus on learning something rather than trying to fidn some kind of idea while loosing time doing something I'm not realy that interested in. First I did some Leetcode starting with the basics like solving two sum for the first time and realy enjoyed it. Then I went to writing my algoritm in The Farmer Was Replaced which is a game where you need to progress by writing scripts basically on python just with some additional libraries and came up with that one:
+<img width="1643" height="1193" alt="image" src="https://github.com/user-attachments/assets/ca1a6cfe-0c47-41b1-ae7b-8bb8d91d5fa1" />
+The rest of the time I spend learning C++.
 ### Planung 04.12.2026
 
 
